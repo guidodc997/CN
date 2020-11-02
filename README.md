@@ -6,4 +6,4 @@ Group project consisting in:
 * Implementig robust and efficient Conjugate Gradient method
 * Applying Gradient method to linear and polynomial regression problems
 
-Overall project's description and application of implemented solutions can be found in file **Elaborato.mlx**.
+Overall project's description and application of implemented solutions can be found in file **Elaborato/Elaborato.mlx**.
